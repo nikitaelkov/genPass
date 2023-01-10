@@ -27,7 +27,7 @@ li {
   font-weight: 500;
 }
 .head-main {
-  background-image: url(/main.jpg);
+  background-image: url(main.jpg);
   background-size: cover;
   background-position: center;
   padding-top: 50px;
